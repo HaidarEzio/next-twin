@@ -15,7 +15,7 @@ const inter = Inter({ subsets: ["latin"] });
 //   ],
 // };
 
-const Button1 = tw.button`bg-blue-200 hover:bg-blue-300 text-white font-bold py-2 px-4 rounded transition-all`;
+const Button1 = tw.button`bg-red-500 hover:bg-red-900 text-white font-bold py-2 px-4 rounded transition-all`;
 
 export default function Home() {
   return (
